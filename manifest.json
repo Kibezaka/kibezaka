@@ -1,0 +1,38 @@
+{
+  "name": "Kibezaka",
+  "short_name": "Kibezaka",
+  "start_url": "https://www.kibezaka.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-_dTEDVWHEug/XnHsxQOEJqI/AAAAAAAAA_E/_BmnZFoeTPU1p9ximAfrPUHMwHw3BtGQQCLcBGAsYHQ/s48/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-YMxs1lKi84s/XnHs1RG0i_I/AAAAAAAAA_I/VaECTj4mEcgz_fHM2GTjpOp7Vmoy6Vg2gCLcBGAsYHQ/s72/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-4c3wozRlR1o/XnHs8wg3tTI/AAAAAAAAA_M/KQuEz5CMA9EHnyPSCvDjWHbSVkyhV-SMgCLcBGAsYHQ/s96/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-i9gv-Tt4bJU/XnHuBFPCf9I/AAAAAAAAA_w/PKknoghJkbAc3Wiiqpm_WMKZX765E_4JQCLcBGAsYHQ/s144/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Vo8eYYJWTXY/XnHuS3-hodI/AAAAAAAAA_4/BMEVfE3-Pqc7iIfGrvUKZTPAy5jV4FvSgCLcBGAsYHQ/s150/ms-icon-150x150.png",
+    "sizes": "150x150",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-oiPHlcAXcjI/XnHtGl91nRI/AAAAAAAAA_Y/BPxDvJWL1YoQspOt0wUtDamD1lhDTLCDgCLcBGAsYHQ/s192/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-jaLrosaVldE/XnHtZ-feF4I/AAAAAAAAA_o/5BuyaMZJ84w_ztLW9GAYp60L23WqpjfrwCLcBGAsYHQ/s310/ms-icon-310x310.png",
+    "sizes": "310x310",
+    "type": "image/png"
+  }]
+}
